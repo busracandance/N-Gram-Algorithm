@@ -24,7 +24,7 @@ The following methods were used in the program:
   •	Outputs- Total running time and items list (top 100 items)
 
 
-IV.	TEST RESULTS
+III.	TEST RESULTS
 
 Average Total Running Time(s)
 1-gram	0.5239747
